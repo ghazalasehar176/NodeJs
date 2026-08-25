@@ -1,0 +1,27 @@
+Node.js kya hai?
+Node.js ek JavaScript runtime environment hai jo JavaScript ko browser ke bahar, mainly server/backend par run karne deta hai.
+ 
+JavaScript mostly browser mein chalti thi:
+HTML + CSS + JavaScript → Browser
+
+Node.js ke baad:
+JavaScript → Server/Backend
+
+Node.js kyun use karte hain?
+ Fast backend applications banane ke liye
+ APIs banane ke liye
+ Real-time apps (chat, notifications etc.)
+ NPM se thousands of packages/libraries use karne ke liye
+ Frontend aur backend dono mein JavaScript use karne ke liye
+
+NPM = Node Package Manager
+Isse hum packages install karte hain, jaise:
+npm install express
+
+D/B Node.js , JavaScript?
+JavaScript = programming language
+Node.js = JavaScript ko browser ke bahar run karne ka environment
+
+
+
+import package.json file your node project run (npm init)
