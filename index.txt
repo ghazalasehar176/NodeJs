@@ -25,3 +25,8 @@ Node.js = JavaScript ko browser ke bahar run karne ka environment
 
 
 import package.json file your node project run (npm init)
+
+
+MODULES:
+modules Node.js mai code ke chhote reusable parts hote hain jo specific kaam karte hain.
+eg: fs , http or express ek module/package hai jo Node.js mein server aur APIs banana easy karta hai
