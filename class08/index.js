@@ -1,3 +1,16 @@
+/* Middleware ek beech ka function hota hai jo Request aur Response ke darmiyan chalta hai.
+
+Flow:
+
+User Request
+     ↓
+Middleware  ← request ko check/process karta hai
+     ↓
+Route
+     ↓
+Response */
+
+
 const express = require('express');
 const app = express();
 const port = 3000
@@ -35,3 +48,5 @@ app.get('/contact' , (req, res) => {
 app.listen(port , () => {
     console.log(`app is runing on port ${port}`)
 })
+
+
